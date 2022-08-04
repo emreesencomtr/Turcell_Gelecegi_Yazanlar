@@ -1,2 +1,2 @@
-# Turcell_Gelecegi_Yazanlar
+# Turkcell_Gelecegi_Yazanlar
 Turkcell Akademi Eğitimleri
